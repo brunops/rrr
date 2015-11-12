@@ -1,0 +1,16 @@
+{
+  "name": "rrr",
+  "version": "1.0.0",
+  "description": "boilerplate for a project with react, redux, react-router and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "brunops",
+  "license": "MIT"
+}
