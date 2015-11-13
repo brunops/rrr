@@ -12,6 +12,7 @@ export default class Home extends Layout {
     return (
       <Layout>
         <h1>Hello from Rendered React Home component</h1>
+        <div id="page-content"></div>
       </Layout>
     )
   }
